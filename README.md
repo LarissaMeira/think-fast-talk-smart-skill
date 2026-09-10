@@ -71,7 +71,7 @@ The result: I don't repeat the same communication mistakes across weeks of meeti
 
 The examples inside the skill are drawn from my world: AI consulting, executive meetings, technical translation. If your work looks different, do not rewrite the skill by hand. Save it to your Claude account, open a fresh chat, and paste:
 
-> *"Rewrite all the examples in the Think Fast Talk Smart skill using my professional context: [describe your work in one sentence]. Keep every framework and structure identical, only change the examples."*
+> *"Rewrite all the examples in the Think Fast Talk Smart skill using my professional context: [describe your work in one sentence, or ask Claude to describe it for you based on your recent chats]. Keep every framework and structure identical, only change the examples."*
 
 Claude will produce a version tailorado to your reality: sales, medicine, engineering, law, whatever you do. Same coach, your language.
 
