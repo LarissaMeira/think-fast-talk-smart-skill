@@ -93,4 +93,4 @@ Read the full write-up in my [AI Toolbox on Notion](https://app.notion.com/p/3d7
 
 ---
 
-Built by [Larissa](https://ecominds.ai) — AI consultant, São Paulo.
+
