@@ -67,6 +67,16 @@ The result: I don't repeat the same communication mistakes across weeks of meeti
 
 ---
 
+## Make it yours
+
+The examples inside the skill are drawn from my world: AI consulting, executive meetings, technical translation. If your work looks different, do not rewrite the skill by hand. Save it to your Claude account, open a fresh chat, and paste:
+
+> *"Rewrite all the examples in the Think Fast Talk Smart skill using my professional context: [describe your work in one sentence]. Keep every framework and structure identical, only change the examples."*
+
+Claude will produce a version tailorado to your reality: sales, medicine, engineering, law, whatever you do. Same coach, your language.
+
+---
+
 ## Why I built it
 
 I work at the intersection of business and technology. The vocabulary keeps shifting, but the executive room does not. Decision-makers still want the point in the first sentence. They still tune out on jargon. They still trust the person who listens before proposing.
